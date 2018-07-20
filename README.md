@@ -8,3 +8,11 @@ I added comments to help with the basics and will be updating the content to inc
 Open to suggestions and feedback,
 
 Thanks!
+
+
+## How to use?
+
+- Change this Config URL to point at your environment: $config['base_url'] = 'http://localhost/Resume-Codeigniter/';
+e.g $config['base_url'] = 'http://yourdomain.com/'; This Config file is located in application/config/config.php
+
+More coming soon!
