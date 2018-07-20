@@ -23,6 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+// CHANGE THIS URL TO POINT AT YOURS - It wont work if left untouched.
 $config['base_url'] = 'http://localhost/Resume-Codeigniter/';
 
 /*
