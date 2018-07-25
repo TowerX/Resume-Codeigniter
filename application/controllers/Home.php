@@ -22,8 +22,8 @@ class Home extends CI_Controller {
 	{	
 
 		// Meta tags
-		$data['title'] = 'Title of the page'; // This is the title of the page e.g 'Resume - Start Bootstrap Theme'.
-		$data['description'] = 'Description of the site'; // This is the <head> meta description field.
+		$data['title'] = 'Resume - Template'; // This is the title of the page e.g 'Resume - Start Bootstrap Theme'.
+		$data['description'] = 'Resume is a Bootstrap resume or CV landing page theme to help you beautifully create easy to use, stylish resume websites!'; // This is the <head> meta description field.
 		$data['author'] = 'Author of the site'; // This is the <head> meta author field.
 
 		// About Section
