@@ -18,4 +18,19 @@ $config['base_url'] = 'http://localhost/Resume-Codeigniter/';
 
 e.g $config['base_url'] = 'http://yourdomain.com/'; This Config file is located in application/config/config.php
 
-More coming soon!
+
+### Variables:
+
+- This variables are easy to edit and have comments explaining what they do. Location of the variables to edit = 'application/controllers/Home.php'
+
+        // Meta tags
+		$data['title'] = 'Resume - Start Bootstrap Theme'; // This is the title of the page e.g 'Resume - Start Bootstrap Theme'.
+		$data['description'] = 'Resume is a Bootstrap resume or CV landing page theme to help you beautifully create easy to use, stylish resume websites!'; // This is the meta description field.
+		$data['author'] = 'Author of the site'; // This is the meta author field.
+
+		// About Section
+		$data['first_name'] = 'Clarence';
+		$data['last_name'] = 'Taylor';
+		$data['address'] = '3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·';
+		$data['your_email'] = 'name@email.com';
+		$data['about_info'] = 'I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.';
