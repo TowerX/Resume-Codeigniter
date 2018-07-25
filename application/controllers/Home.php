@@ -22,13 +22,13 @@ class Home extends CI_Controller {
 	{	
 
 		// Meta tags
-		$data['title'] = 'Resume - Template'; // This is the title of the page e.g 'Resume - Start Bootstrap Theme'.
+		$data['title'] = 'Resume - Start Bootstrap Theme'; // This is the title of the page e.g 'Resume - Start Bootstrap Theme'.
 		$data['description'] = 'Resume is a Bootstrap resume or CV landing page theme to help you beautifully create easy to use, stylish resume websites!'; // This is the <head> meta description field.
 		$data['author'] = 'Author of the site'; // This is the <head> meta author field.
 
 		// About Section
-		$data['first_name'] = 'Jay';
-		$data['last_name'] = 'Torres';
+		$data['first_name'] = 'Clarence';
+		$data['last_name'] = 'Taylor';
 		$data['address'] = '3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·';
 		$data['your_email'] = 'name@email.com';
 		$data['about_info'] = 'I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.';
