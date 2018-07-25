@@ -12,7 +12,10 @@ Thanks!
 
 ## How to use?
 
-- Change this Config URL to point at your environment: $config['base_url'] = 'http://localhost/Resume-Codeigniter/';
+- Change this Config URL to point at your environment: 
+
+$config['base_url'] = 'http://localhost/Resume-Codeigniter/';
+
 e.g $config['base_url'] = 'http://yourdomain.com/'; This Config file is located in application/config/config.php
 
 More coming soon!
