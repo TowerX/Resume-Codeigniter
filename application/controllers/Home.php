@@ -29,9 +29,9 @@ class Home extends CI_Controller {
 		// About Section
 		$data['first_name'] = 'Jay';
 		$data['last_name'] = 'Torres';
-		$data['address'] = 'Saint Paul, MN 55119';
+		$data['address'] = '3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·';
 		$data['your_email'] = 'name@email.com';
-		$data['about_info'] = 'During my time as a freelance web developer I have learned the importance of working with a team while collaborating with various artists and other programmers on multiple projects. As a freelance developer, I have fine-tuned my craft to deliver results that my clients have needed.';
+		$data['about_info'] = 'I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.';
 
 
 
