@@ -3,7 +3,9 @@ This site was built using the Resume template from the awesome team @ [Start Boo
 
 I would call this a starting point for people who want to learn Codeigniter or built on top of a fresh copy.
 
-I added comments to help with the basics and will be updating the content to include Admin features, contact form and more. The Admin area will allow the edits of any content from the Front-End.
+I added comments to help with the basics and will be updating the content to include Admin features, contact form and more. 
+
+The Admin area will allow the edits of any content from the Front-End.
 
 Open to suggestions and feedback,
 
@@ -16,7 +18,9 @@ Thanks!
 
 $config['base_url'] = 'http://localhost/Resume-Codeigniter/';
 
-e.g $config['base_url'] = 'http://yourdomain.com/'; This Config file is located in application/config/config.php
+Example: $config['base_url'] = 'http://yourdomain.com/'; 
+
+This Config file is located in application/config/config.php
 
 
 ### Variables:
